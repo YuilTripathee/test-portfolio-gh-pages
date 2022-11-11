@@ -27,7 +27,7 @@ description: career portfolio - education, employment and work stuffs
 > **Courses:** Web Development & Database, Computer Hardware & Architecture, Data Communication & Computer Network, Physics,
 > Chemistry, Mathematics
 
-## SEE - Secondary Education Exam (2016-2018)
+### SEE - Secondary Education Exam (2016-2018)
 
 **Brahmarupa Secondary School**
 
